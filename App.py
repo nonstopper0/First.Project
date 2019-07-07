@@ -16,7 +16,7 @@ grey = (30, 30, 30)
 number = 0
 numcolor = [0, 0, 0]
 
-#testy boi
+
 def text(location, text, size, color):
     # text objects
     font = pygame.font.SysFont("Myriad Pro", size)
