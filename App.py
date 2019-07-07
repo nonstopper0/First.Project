@@ -11,7 +11,7 @@ black = (10, 10, 10)
 white = (255, 255, 255)
 red = (255, 0, 0)
 light_red = (50, 0, 0)
-grey = (100, 100, 100)
+grey = (30, 30, 30)
 
 number = 0
 numcolor = [0, 0, 0]
