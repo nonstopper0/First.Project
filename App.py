@@ -12,7 +12,7 @@ white = (255, 255, 255)
 red = (255, 0, 0)
 light_red = (50, 0, 0)
 grey = (100, 100, 100)
-# second github test
+
 number = 0
 numcolor = [0, 0, 0]
 
